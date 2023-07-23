@@ -9,7 +9,7 @@ A simple website of a fictitious hotel located in Athens (Hotel "Athena").
 
 HTML and CSS only are utilized. Basic layout elements and techniques, such as header/footer/navigation bar and CSS grid, are also introduced. 
 
-You can browse the website though the hyperlink below:
+Feel free to browse the website though the hyperlink below:
 
 ### >> https://alexandrosb88.github.io/ <<
 
