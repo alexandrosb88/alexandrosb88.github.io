@@ -14,7 +14,7 @@ Feel free to browse the website though the hyperlink below:
 ### >> https://alexandrosb88.github.io/ <<
 
 
-# Disclaimer
+## Disclaimer
 
 The content provided on the aforementioned website is entirely fictitious. Any resemblance to real individuals, organizations, or events is purely coincidental. The information presented here is a product of imagination and does not represent any real products, services, or entities.
 
